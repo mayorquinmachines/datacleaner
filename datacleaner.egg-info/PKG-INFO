@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: datacleaner
+Version: 1.0
+Summary: data cleaning library for sequences of images
+Home-page: https://github.com/mayorquinmachines/datacleaner
+Author: Salma Mayorquin
+License: MIT
+Description: # DataCleaner
+        
+Keywords: datacleaning machinelearning deeplearning data
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown
+Provides-Extra: ci
+Provides-Extra: dev

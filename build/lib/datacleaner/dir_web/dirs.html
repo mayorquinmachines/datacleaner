@@ -1,0 +1,17 @@
+
+{% extends "base.html" %}
+{% block content %}
+
+	<body>
+		<div class="container">
+     <ul>
+       {% for dir in dirs %}
+         <li><a href={{ "/dirs/" + escape(dir) }}>{{ escape(dir) }}</a></li>
+       {% end %}
+     </ul>
+
+		</div>
+
+
+	</body>
+{% end %}

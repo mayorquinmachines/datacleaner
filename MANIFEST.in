@@ -1,0 +1,2 @@
+include datacleaner/dir_web/*
+recursive-include datacleaner/dir_web/static/ *

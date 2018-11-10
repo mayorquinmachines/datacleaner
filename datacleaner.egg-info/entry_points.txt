@@ -1,0 +1,3 @@
+[console_scripts]
+datacleaner = datacleaner.base:execute_from_command_line
+

@@ -4,7 +4,7 @@ An image sequence editor for curating image datasets. This tool was generalized 
 
 DataCleaner currently supports png images. Other image extensions coming soon!
 
-##Requirements
+## Requirements
 * tornado 4.5.3
 * requests
 * python-socketio

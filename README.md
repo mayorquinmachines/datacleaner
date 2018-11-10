@@ -1,6 +1,6 @@
 # DataCleaner
 
-An image sequence editor for curating image datasets. This tool was generalized from the [donkeycar](https://github.com/autorope/donkeycar) tubcleaner contribution made by (Kenneth Jiang)[https://www.linkedin.com/in/kennethjiang/].
+An image sequence editor for curating image datasets. This tool was generalized from the [donkeycar](https://github.com/autorope/donkeycar) tubcleaner contribution made by [Kenneth Jiang](https://www.linkedin.com/in/kennethjiang/).
 
 DataCleaner currently supports png images. Other image extensions coming soon!
 
